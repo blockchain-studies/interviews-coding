@@ -1,8 +1,10 @@
 ### Context
 
-Chainlist.org Amoy RPC - https://chainlist.org/chain/80002
-Faucet MATIC on Amoy (Transfer 0.001 MATIC on Mainet to receive the faucet) - https://www.alchemy.com/faucets/polygon-amoy
-> Transaction from received faucet: https://www.oklink.com/pt-br/amoy/tx/0x9b73dae6e52155cf2180d58dd0c2c33ea771a7f66d37be9f263fd990097927ea
+- Chainlist.org Amoy RPC - https://chainlist.org/chain/80002
+
+- Faucet MATIC on Amoy (Transfer 0.001 MATIC on Mainet to receive the faucet) - https://www.alchemy.com/faucets/polygon-amoy
+
+- - Transaction from received faucet: https://www.oklink.com/pt-br/amoy/tx/0x9b73dae6e52155cf2180d58dd0c2c33ea771a7f66d37be9f263fd990097927ea
 
 1 - Create a ERC-20 smart contract on Amoy (Polygon Testnet)
 
