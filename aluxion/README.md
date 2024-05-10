@@ -1,16 +1,10 @@
 ### Context
 
-- Chainlist.org Amoy RPC - https://chainlist.org/chain/80002
-
-- Faucet MATIC on Amoy (Transfer 0.001 MATIC on Mainet to receive the faucet) - https://www.alchemy.com/faucets/polygon-amoy
-
-- Transaction from received faucet: https://www.oklink.com/pt-br/amoy/tx/0x9b73dae6e52155cf2180d58dd0c2c33ea771a7f66d37be9f263fd990097927ea
-
-1 - Create a ERC-20 smart contract on Amoy (Polygon Testnet)
+1 - Create an ERC-20 smart contract on Sepolia (Ethereum Testnet) - https://sepolia.etherscan.io/tx/0xe40eaa361e57545dd2fc6357cf2fd296d4dc6354439a18a7739af406f2a90045
 
 2 - Use the Metamask Account Address `0x732903f195c27C45Aa86a2045aa160442608F21A` to deploy the smart contract on the Tesnet (By Remix)
 
-3 - The deployed smart contract address is ``
+3 - The deployed smart contract address is `0xc90459f845CBf208D7B92c872371629f003182CA`
 
 4 - Import the created token on the Metamask Account Address `0x732903f195c27C45Aa86a2045aa160442608F21A`
 
